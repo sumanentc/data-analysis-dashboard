@@ -14,7 +14,7 @@ from order_value_variability import *
 st.title("CostPro Quarterly Sales Metrics")
 
 # Read dataframe
-df = pd.read_csv('./retail_metrics_dashboard/data.csv')
+df = pd.read_csv('./data.csv')
 
 # Create a selection widget to choose the quarter
 year = st.selectbox("Select quarter:", df["Year"].unique())
