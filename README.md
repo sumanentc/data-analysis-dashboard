@@ -1,2 +1,2 @@
-# data-analysis-dashboard
-Streamlit app demonstration for CostPro Quarterly Sales Metrics Dashboard
+# Data-explorartion-dashboard
+Sample Streamlit app demonstration for CostPro Quarterly Sales Metrics Dashboard
