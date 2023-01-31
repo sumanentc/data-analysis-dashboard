@@ -21,5 +21,8 @@ To run the dashboard locally, clone the repo and run this command:
     streamlit run streamlit_app.py
     
 ## App
+
 CostPro Quarterly Sales Metrics [Dashboard](https://sumanentc-data-analysis-dashboard-streamlit-app-hp8pwv.streamlit.app).
+
+![Sales Dashboard](sales-dashboard.png)
 
